@@ -1,0 +1,2 @@
+rm -rf xdynalign
+g++ -Wno-deprecated -O3 -o xdynalign.i386 xdynaligninterface.cpp -lm
